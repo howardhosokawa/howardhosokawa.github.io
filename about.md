@@ -17,7 +17,7 @@ I'm a UX designer and strong advocate for design that satisfies users. To create
 <!-- <div class="col three caption">
 	This image can also have a caption. It's like magic. 
 </div> -->
-[Here is Howard's Resume in PDF]({{ site.url }}/assets/howardhosokawaresume.pdf/){: text-align: center;}
+[Here is Howard's Resume in PDF]({{ site.url }}/assets/howardhosokawaresume.pdf){: text-align: center;}
 <br/>
 <hr/>
 <br/>
