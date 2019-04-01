@@ -1,13 +1,20 @@
-<!-- --- -->
-<!-- # layout: page
-# permalink: /Resume/
-# title: Resume
-# description: Howard's Resume
-# ---
+---
+layout: page
+permalink: /Resume/
+title: Resume
+description: Howard's Resume
+---
 
-# [Here is Howard's Resume in PDF]({{ site.url }}/assets/howardhosokawaresume.pdf/)
+<div style="text-align: center;"><a href="{{ site.url }}/assets/howardhosokawaresume.pdf">
+Click to download PDF
+</a>
+</div>
 
-# [1]: -->
+<a href="{{ site.url }}/assets/howardhosokawaresume.pdf"><img class="col three" src="{{ site.baseurl }}/img/howardhosokawaresume.png" alt="" title="awoo"/></a>
+
+
+
+<!-- [1]: -->
 <!-- {{ site.url }}/ -->
 
 <!-- <object data="{{ post./  /howardhosokawaresume.pdf }}" width="1000" height="1000" type='application/pdf'> -->

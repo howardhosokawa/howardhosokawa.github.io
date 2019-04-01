@@ -17,16 +17,14 @@ I'm a UX designer and strong advocate for design that satisfies users. To create
 <!-- <div class="col three caption">
 	This image can also have a caption. It's like magic. 
 </div> -->
-[Here is Howard's Resume in PDF]({{ site.url }}/assets/howardhosokawaresume.pdf){: text-align: center;}
-<br/>
+<!-- [Here is Howard's Resume in PDF]({{ site.url }}/assets/howardhosokawaresume.pdf){: text-align: center;} -->
+<!-- <br/>
 <hr/>
-<br/>
+<br/> -->
 <span class="contacticon center">
 	<a href="mailto:howardhosokawa@gmail.com"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
 	<a href="https://www.linkedin.com/howardhosokawa" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	<!-- <a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
-	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a> -->
 </span>
 
 <div class="col three caption">

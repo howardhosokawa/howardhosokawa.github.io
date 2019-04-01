@@ -1,16 +1,8 @@
 ---
 layout: page
-title: Home
-permalink: /home/
+title: Portfolio
+permalink: /portfolio
 ---
-<div class="header-bar">
-  <h1>Hey there, my name is Howard</h1>
-  <h2>And I'm a Product Designer!</h2>
-  <br/>
-  <hr>
-  <br/>
-</div>
-
 
 {% for project in site.portfolio %}
 
