@@ -2,7 +2,7 @@
 layout: post
 title: Project Chef Koochooloo
 description: Coming Soon
-thumbnaildesc: test
+thumbnaildesc: Teaching cooking and STEAM together!
 img: /img/Chef-Koochooloo-logo-girl.png
 ---
 
