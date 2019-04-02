@@ -2,6 +2,7 @@
 layout: post
 title: One Focus
 description: Taking control of the classroom in one click.  A project to fix a small social problem with an phone application.
+thumbnaildesc: Keeping the classroom focused with one click
 img: /img/onefocuslogo.png
 ---
 <div class="img_row_inherit">
