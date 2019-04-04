@@ -11,7 +11,7 @@ I'm a UX designer and strong advocate for design that satisfies users. To create
 </div> 
 <div>
 	<div class="img_row">
-		<img class="col three" src="{{ site.baseurl }}/img/awoo.jpg" alt="" title="example image"/>
+		<img class="col three" src="{{ site.baseurl }}/img/awoo.jpg" alt="image of a bipedal fuzzy rainbow husky on a snowbaord going down a hill" title="photo of charm going down a hill on a snowbaord"/>
 	</div>
 </div>
 <!-- <div class="col three caption">
@@ -21,11 +21,11 @@ I'm a UX designer and strong advocate for design that satisfies users. To create
 <!-- <br/>
 <hr/>
 <br/> -->
-<span class="contacticon center">
+<!-- <span class="contacticon center">
 	<a href="mailto:howardhosokawa@gmail.com"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
 	<a href="https://www.linkedin.com/howardhosokawa" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-</span>
+</span> -->
 
 <div class="col three caption">
 	Email is the fastest way to get a hold of me!
