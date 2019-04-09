@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project Chef Koochooloo
-description: Coming Soon
+description: Teaching STEAM and cooking at once for K through 5th graders.  A client project to help teachers when using the application improving the experience.
 thumbnaildesc: Teaching cooking and STEAM together!
 img: /img/Chef-Koochooloo-logo-girl.png
 ---
