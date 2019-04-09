@@ -174,7 +174,6 @@ I directed the team to look at the current way Chef Koochooloo was being used an
 <div class="col three caption">
 	Our wireframes after some iteration.  We first decided to just have the ability to hide the slide via clicking the eye icon.  We also made it so the tags were all tagged on the content and had an easier searchability for the teacher.  
 </div>
-Annotations of picture
 
 _For more information about the usability testing and its results please feel free to email me for the further detailed study_
 
