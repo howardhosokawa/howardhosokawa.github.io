@@ -9,9 +9,43 @@ img: /img/onefocuslogo.png
 	<img class="one_block" src="{{ site.baseurl }}/img/onefocuslogo.png" alt="A logo of the project One Focus, it is an circle with alternating colour of each letter of the word One Focus" title="The One Focus Logo"/>
 </div>
 
-<strong>Ignore this text for now! working on code to put in a menu here so people can scroll past things they don't want to read!</strong>
+<div class="img_row_inherit">
+	<div class="col two left">
+	<h4>Project Name:</h4>
+	</div>
+	<div class="col one right">
+	One Focus
+	</div>
+</div>
+<div class="img_row_inherit">
+	<div class="col two left">
+	<h4>Duration:</h4>
+	</div>
+	<div class="col one right">
+	2 weeks
+	</div>
+</div>
+<div class="img_row_inherit">
+	<div class="col two left">
+	<h4>Role:</h4>
+	</div>
+	<div class="col one right">
+	Product Designer, Researcher, Project Manager, Primary Presenter
+	</div>
+</div>
+<div class="img_row_inherit">
+	<div class="col two left">
+	<h4>Team:</h4>
+	</div>
+	<div class="col one right">
+	3 other UX designers
+	</div>
+</div>
 
-## Prompt
+## Project Overview
+
+<br/>
+
 <div style="margin-bottom: 15px; margin-top: 15px;">
 Select a social responsibility topic, and develop a problem statement for one facet of the issue that can be impacted positively by a mobile app. Additionally, propose a prospective sponsor for the app, whose brand we can leverage in the visual design.
 </div>

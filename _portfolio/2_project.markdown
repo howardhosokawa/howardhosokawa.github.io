@@ -11,34 +11,34 @@ img: /img/Chef-Koochooloo-logo-girl.png
 </div>
 
 <div class="img_row_inherit">
-	<div class="col two left">
+	<div class="col one">
 	<h4>Project Name:</h4>
 	</div>
-	<div class="col one right">
+	<div class="col one">
 	Chef Koochooloo
 	</div>
 </div>
 <div class="img_row_inherit">
-	<div class="col two left">
+	<div class="col one">
 	<h4>Duration:</h4>
 	</div>
-	<div class="col one right">
+	<div class="col one ">
 	3 weeks
 	</div>
 </div>
 <div class="img_row_inherit">
-	<div class="col two left">
+	<div class="col one ">
 	<h4>Role:</h4>
 	</div>
-	<div class="col one right">
+	<div class="col one ">
 	Product Designer, Researcher, Project Manager, Primary Presenter
 	</div>
 </div>
 <div class="img_row_inherit">
-	<div class="col two left">
+	<div class="col one ">
 	<h4>Team:</h4>
 	</div>
-	<div class="col one right">
+	<div class="col one ">
 	3 other UX designers
 	</div>
 </div>
@@ -69,6 +69,8 @@ My team and I were brought onboard to resolve a problematic experience teachers 
 
 > This story starts with a new group of adventurers hired to solve the problem of the confusing map to the treasure…
 
+
+
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/IMG_0515.png"> 
 </div>
@@ -82,6 +84,10 @@ My team and I were brought onboard to resolve a problematic experience teachers 
 I helped create a teacher facing side of the client’s application to make it easier for teachers to teach the content that was provided by the Chef Koochooloo application.  The solution me and my team came up with in the end was to allow teachers the ability to customize the lesson provided by the application.  This insight was reached through observing live demos, interviews with teachers about their behaviours, and viewing the current flow of the Chef Koochooloo application.  
 
 > Like any good group of adventurers to be able to read a map you must first know how to read the mysterious symbols!
+
+<p style="margin-bottom: 0px;">
+	<br/>
+</p>
 
 ## RESEARCH
 <hr/>
@@ -122,7 +128,13 @@ The big picture? **TIME**.
 Time is used to balance the flow of a lesson and keep students engaged.  A lot of personal time is used by teachers when they have to search for new material or content.
 
 ### Journey/Flow
-I directed the team to look at the current way Chef Koochooloo was being used and ideated with them on what can we improve in their current setup or what can we add.  With the information gathered we moved to add to their flow so that it would not disrupt the current model.  Designing a new independent but connectable design allows for value added to the business while maintaining the CEO’s passion for the project.
+
+* Current state of the application was too rigind and linear resulting in a lesson that **didn't fit the teaching style or the needs of the teacher's classroom**
+* Content inside each lesson was not searchable in any way which **results in long time finding the content needed to teach**
+* By making the solution to make the **content inside each lesson more discoverable** the journey will become easier for the teacher
+* Allowing **customization of the lesson content** would make the teachers more satisfied teaching the lesson and benefit the children learning to their learning styles
+
+Mapping out the journey, I saw the problem was that for teachers who were using this application the most to teach their class needed **roadblocks created by the application to be removed**.  
 
 
 <img class="col three" src="{{ site.baseurl }}/img/user Journey Current WIDE_v3.png">
@@ -174,6 +186,7 @@ I directed the team to look at the current way Chef Koochooloo was being used an
 <div class="col three caption">
 	Our wireframes after some iteration.  We first decided to just have the ability to hide the slide via clicking the eye icon.  We also made it so the tags were all tagged on the content and had an easier searchability for the teacher.  
 </div>
+
 
 _For more information about the usability testing and its results please feel free to email me for the further detailed study_
 
