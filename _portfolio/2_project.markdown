@@ -42,6 +42,14 @@ img: /img/Chef-Koochooloo-logo-girl.png
 	3 other UX designers
 	</div>
 </div>
+<div class="img_row_inherit">
+	<div class="col one">
+	<h4>Platform:</h4>
+	</div>
+	<div class="col one">
+	Web Application only
+	</div>
+</div>
 <hr/>
 <p style="margin-bottom: 0px;">
 	<br/>
@@ -65,23 +73,21 @@ img: /img/Chef-Koochooloo-logo-girl.png
 
 Chef Koochooloo is a web application that combines both cooking activities and STEAM topics together to create an immersive learning experience for K-5.
 
-My team and I were brought onboard to resolve a problematic experience teachers were having when using the application.  I led the team towards a solution that removed friction in the application for teachers by increasing customizability and discoverability for the teachers.   
+My team and I were brought onboard to resolve a **problematic experience teachers were having when using the application**.  I led the team towards a **solution that removed friction in the application for teachers by increasing customizability and discoverability** for the teachers.   
 
 > This story starts with a new group of adventurers hired to solve the problem of the confusing map to the treasure…
 
-
-
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/IMG_0515.png"> 
+	<img class="col three" src="{{ site.baseurl }}/img/ideationlightbulb.jpg"> 
 </div>
 <div class="col three caption">
-	The begining of our research with my team and I.
+	To have an idea of what to fix you must start with trying to think of the problem
 </div>
 
 <div class="clearfix"></div>
 <br/>
 
-I helped create a teacher facing side of the client’s application to make it easier for teachers to teach the content that was provided by the Chef Koochooloo application.  The solution me and my team came up with in the end was to allow teachers the ability to customize the lesson provided by the application.  This insight was reached through observing live demos, interviews with teachers about their behaviours, and viewing the current flow of the Chef Koochooloo application.  
+I helped create a teacher facing side of the client’s application to make it easier for teachers to teach the content that was provided by the Chef Koochooloo application.  The solution me and my team came up with in the end was to allow teachers the ability to customize the lesson provided by the application.  This **insight was reached through observing live demos, interviews with teachers about their behaviours, and viewing the current flow of the Chef Koochooloo application**.  
 
 > Like any good group of adventurers to be able to read a map you must first know how to read the mysterious symbols!
 
@@ -101,7 +107,7 @@ I helped create a teacher facing side of the client’s application to make it e
 * I observed that each piece of content seemed a bit long and near the end of the lesson it was rushed because it couldn’t fit in the 55min time block.  
 * The kids were easily distracted and sometimes not engaged into the screen or the task at hand.  
 
-From the live demo of a lesson and product we saw engagement and managing the classroom to stay engaged was a big issue.  But this was only part of the problem as we delved further into the research with interviews.  
+From the live demo of a lesson and product we saw **managing the classroom to stay engaged** was a big issue.  But this was only part of the problem as we delved further into the research with interviews.  
 
 <img class="col three" src="{{ site.baseurl }}/img/Storyboard_new_flow.png">
 <div class="col three caption">
@@ -125,7 +131,7 @@ From the live demo of a lesson and product we saw engagement and managing the cl
 
 The big picture? **TIME**.  
 
-Time is used to balance the flow of a lesson and keep students engaged.  A lot of personal time is used by teachers when they have to search for new material or content.
+Time is used to **balance the flow of a lesson and keep students engaged**.  A lot of **personal time is used by teachers** when they have to search for new material or content.
 
 ### Journey/Flow
 
@@ -175,7 +181,7 @@ Mapping out the journey, I saw the problem was that for teachers who were using 
 	<img class="col one" src="{{ site.baseurl }}/img/IMG_6872.JPG">
 </div>
 <div class="col three caption">
-	by conducting the usability test we were able to refine our design.  Over the three weeks we tested over 4 versions of our design with 20+ users.
+	By conducting the usability test we were able to refine our design.  Over the three weeks we tested over 4 versions of our design with 20+ users.
 </div>
 
 <div class="img_row">
@@ -226,7 +232,7 @@ The solution had kept in mind the scalability of this application for the future
 
 
 
-## TAKEAWAYS
+## TAKEAWAYS & LEARNINGS
 <hr/>
 <p style="margin-bottom: 0px;">
 	<br/>
@@ -238,3 +244,5 @@ The solution had kept in mind the scalability of this application for the future
 * Thinking about scalability of the product and realizing parts of the product may be needed changed from it's current version; It was about having the thought in the future for what the engineers or the product itself may experience
 * With the research & live demo realizing who the actual target user was and observing live how they used the product helped immensly with my direction and design
 * Teachers as a user base is one of the hardest groups to get a hold of and test or interview for due to their busy time schedule
+
+<a href="#top">Oh no! nothing left here...click me to go back to the start!</a>
