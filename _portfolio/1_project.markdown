@@ -79,6 +79,8 @@ img: /img/onefocuslogo.png
 <p style="margin-bottom: 0px;">
 	<br/>
 </p>
+<hr/>
+<br/>
 
 One Focus is a mobile application where teachers can take control of the digital devices of their students restricting access to their phones except for students with ADD/ADHD needing it.  
 
@@ -99,10 +101,11 @@ My team and I were tasked to **select a social responsibility topic, and develop
 I assisted in the design of the teacher facing side of a brand new mobile application that the teachers can use to control mobile devices in their classroom.  The solution me and my team reached was to allow teachers to control the student's devices while allowing access to the students who need digital devices for assistive learning.  My team and I reached this conclusion from interviews with our users, researching the current market for similarities, and multiple iterations until we were able to condense the problem.  
 
 ## The Research
-<hr/>
 <p style="margin-bottom: 0px;">
 	<br/>
 </p>
+<hr/>
+<br/>
 
 ### Interviews
 
@@ -152,8 +155,6 @@ From the interviews that were conducted, **engagement and focus of students in a
 <br/>
 
 ## IDEATION
-
-<div class="clearfix"></div>
 <p style="margin-bottom: 0px;">
 	<br/>
 </p>
@@ -236,7 +237,6 @@ The onboarding screens following the Google brand guideline.  Using simple illus
 * On boarding was a big focus as **testing revealed people did not understand what the application did** 
 
 <br/>
-<h2>Next Steps</h2>
 
 <h2>In conclusion...</h2>
 <br/>
@@ -260,7 +260,7 @@ Hindsight is always 20/20 they say, and in the practice and execution of UX desi
 * Miscommunication can happen very easily both in design of your product as well as your team.  Being clear and consice on ideation is very much needed.  
 
 
-<br/>
+<!-- <br/>
 <hr/>
 <br/>
 
@@ -274,7 +274,7 @@ Overall, brainstorming and generative design exploration was an intense and iter
 
 It was also interesting to note that in here I can write about the role I was give and the role I played.  At the start of this project we did an exercise in the 6 hats by Edward DeBono.  Here my team labeled me as a blue hat, this hat was a more managerial role of the other six hats (I personally thought I was more white hat; the logical thinker and reasoner.)  So with that I was given the managerial role of the rest of my team.  This was interesting to me in the conclusion of this project because it pushed me into a zone that I wasn’t the most comfortable with and it may have shown with our time management of this project slightly.  I tried to look and see what may work for each team member.  It was indeed a juggling act that was new to me where I had to balance out my own work with managing my teams goals.  In the end I learned a valuable experience of how I can use it to time box my own tasks and see where I can help my teammates better.  It also showed me to really understand what parts of the design process were flexible versus what parts needed to be completed before another can be done.  If I was put in that role again (Narrator: He was) [img: morgan freeman meme] I now have a better grasp on what I needed to do to manage a team while being able to do my own work.  
 
-We presented our project and we had great response to our solution - clean, simple, an clear to communicate. It felt great that we hit the target and all of the exploration we did landed us on a clear and concise solution. <strong>Simplifying is hard.</strong> 
+We presented our project and we had great response to our solution - clean, simple, an clear to communicate. It felt great that we hit the target and all of the exploration we did landed us on a clear and concise solution. <strong>Simplifying is hard.</strong>  -->
 
 <a href="#top">Oh no! nothing left here...click me to go back to the start!</a>
 
