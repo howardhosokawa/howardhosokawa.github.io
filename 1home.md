@@ -5,7 +5,8 @@ permalink: /home/
 ---
 <div class="header-bar">
   <h1>Hey there, my name is Howard</h1>
-  <h2>And I'm a Product Designer!</h2>
+  <h2>And I'm a Product Designer | Web Developer | History Dork!</h2>
+  <a href="mailto:howardhosokawa@gmail.com"><i class="fa fa-envelope-square">Let's get talking!</i></a>
   <br/>
   <hr>
   <br/>
